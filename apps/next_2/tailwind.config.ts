@@ -1,8 +1,8 @@
 import type { Config } from "tailwindcss";
-import sharedConfig from "tailwind-config/tailwind.config.ts";
+import { shadcnTailwindConfig } from "tailwind-config/tailwind.config";
 
 const config: Pick<Config, "presets"> = {
-  presets: [sharedConfig],
+  presets: [shadcnTailwindConfig],
 };
 
 export default config;
