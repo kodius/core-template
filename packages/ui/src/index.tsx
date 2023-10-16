@@ -1,5 +1,6 @@
 // styles
-import "./styles.css";
+import "./globals.css";
 
 // components
 export * from "./test-component";
+export * from './components/ui/button'
