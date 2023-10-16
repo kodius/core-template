@@ -1,4 +1,5 @@
-import "ui/styles.css";
+// import "tailwind-config/globals.css";
+// import 'ui/styles.css'
 import './globals.css'
 
 import type { Metadata } from "next";
