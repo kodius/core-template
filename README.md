@@ -36,7 +36,7 @@ A components library crafted with `shadcn`. It includes a global stylesheet `sty
 To use the global styles from the `ui` library in any project inside the `app` directory (e.g., `next_1` or `next_2`):
 
 ```javascript
-import "ui/styles.css";
+import "ui/globals.css";
 ```
 
 Alternatively, if you want to use a custom global CSS file:
