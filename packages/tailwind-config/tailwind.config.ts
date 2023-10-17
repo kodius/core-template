@@ -1,4 +1,4 @@
-import type { Config } from "tailwindcss";
+import type { Config } from "tailwindcss"
 
 export const shadcnTailwindConfig: Config = {
   darkMode: ["class"],
@@ -75,4 +75,4 @@ export const shadcnTailwindConfig: Config = {
     },
   },
   plugins: [require("tailwindcss-animate")],
-};
+}
