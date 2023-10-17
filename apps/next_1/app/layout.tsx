@@ -1,6 +1,8 @@
-// import "tailwind-config/globals.css";
-// import 'ui/styles.css'
-import './globals.css'
+// import PRE-CONFIGURED globals from UI
+// import "ui/globals.css";
+
+// create a custom globals
+import "./globals.css";
 
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
